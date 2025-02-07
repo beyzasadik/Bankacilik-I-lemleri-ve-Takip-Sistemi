@@ -49,4 +49,3 @@ Hakim olduğun bir programlama dili ile (c++ olabilir) aşağıdaki sorguların 
 •	En az işlem yapan müşterinin terminal bilgilerini getir
 •	En çok işlem yapılan terminalin 
 •	İlave sorgular olabilir…
-![image](https://github.com/user-attachments/assets/d0bb342e-61d0-4eb7-833e-94fdcd2f3dce)
